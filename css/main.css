@@ -1,0 +1,122 @@
+/* General */
+* {
+    font-size: 14px;
+}
+body {
+    background-color: #F3F6F7;
+}
+h1 {
+    font-size: calc(1.3rem + .6vw)
+}
+h2 {
+    font-size: calc(1.275rem + .3vw)
+}
+h3 {
+    font-size: 1rem
+}
+a {
+    color: #EA2B1F;
+}
+a:hover {
+    color: #BB1D11;
+}
+section {
+    padding-bottom: 2rem;
+}
+main {
+    margin: 70px 0 25px;
+}
+main .container {
+    max-width: 970px;
+    background-color: #FFFFFF;
+    padding: 15px;
+    margin-bottom: 20px;
+}
+::-webkit-scrollbar {
+    width: 8px;
+}
+::-webkit-scrollbar-track {
+    border-radius: 10px;
+    background: rgba(0,0,0,.1);
+}
+::-webkit-scrollbar-thumb{
+    border-radius: 10px;
+    background: rgba(0,0,0,.2);
+}
+::-webkit-scrollbar-thumb:hover{
+  	background: rgba(0,0,0,.4);
+}
+::-webkit-scrollbar-thumb:active{
+  	background: rgba(0,0,0,.6);
+}
+
+/* Header */
+.language a:not(:first-of-type) {
+    padding-left: .5rem;
+}
+
+/* Profile */
+#profile .author_image {
+    padding: 5px;
+    border: 1px solid #f2f3f3;
+    max-width: 225px;
+    border-radius: 50%;
+}
+#profile ul {
+    padding-left: 0;
+}
+#profile ul.affiliation li {
+    list-style: none;
+}
+#profile ul.links {
+    margin-bottom: 0;
+}
+#profile ul.links:last-of-type {
+    margin-bottom: 16px;
+}
+#profile ul.links li {
+    display: inline-block;
+    list-style: none;
+}
+#profile ul.icon_links li:not(:first-of-type) {
+    margin-left: 8px;
+}
+#profile .biography {
+    width: 80%;
+    margin: 0 auto;
+}
+
+/* Publication */
+#publication table {
+    table-layout: fixed;
+    width: 100%;
+}
+#publication .bibtexentry td:first-of-type {
+    width: 14px;
+}
+#publication span.bullet {
+    font-size: 60%;
+    position: relative;
+    top: -.15rem;
+}
+#publication .bibtexentry .菊池.康太郎 {
+    font-weight: bolder;
+}
+#publication .bibtexentry .Kotaro.Kikuchi {
+    font-weight: bolder;
+}
+#publication .bibtexentry .title {
+    font-weight: bolder;
+}
+#publication .bibtexentry pre span {
+    font-size: 90%;
+}
+
+/* Footer */
+.footer {
+    color: #C6CCD2;
+    background-color: #2D3339;
+}
+.footer a {
+    color: #93B7BE;
+}
