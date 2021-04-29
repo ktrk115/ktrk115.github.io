@@ -4,12 +4,11 @@
     
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <meta name="generator" content="Hugo 0.80.0" />
-    <meta property="og:title" content="菊池 康太郎" />
+    <meta name="generator" content="Hugo 0.82.1" /><meta property="og:title" content="菊池 康太郎" />
 <meta property="og:description" content="" />
 <meta property="og:type" content="website" />
-<meta property="og:url" content="https://ktrk115.github.io/ja/" />
-<meta property="og:site_name" content="菊池 康太郎" />
+<meta property="og:url" content="https://ktrk115.github.io/ja/" /><meta property="og:site_name" content="菊池 康太郎" />
+
 <meta name="twitter:card" content="summary"/>
 <meta name="twitter:title" content="菊池 康太郎"/>
 <meta name="twitter:description" content=""/>
@@ -130,7 +129,7 @@
         </li></ul></div>
 
 <div class="biography">
-    <p>早稲田大学 基幹理工学研究科 情報理工・情報通信専攻 博士後期課程 小林研究室に所属しています。2018年に同専攻で修士号を取得しました。また同年、CyberAgent AI LabとMicrosoft Research Asiaで研究インターンをしました。グラフィックデザイン分野における機械学習や最適化、視覚と言語の融合領域などに興味があります。現在は、シモセラエドガー先生の指導のもと、グラフィックデザイン制作の計算的支援に関する研究に取り組んでいます。</p>
+    <p>早稲田大学 基幹理工学研究科 情報理工・情報通信専攻 博士後期課程 シモセラ研究室に所属しています。2018年に同専攻で修士号を取得しました。また同年、CyberAgent AI LabとMicrosoft Research Asiaで研究インターンをしました。デザイン分野における機械学習や最適化技術の活用に興味があり、現在はグラフィックレイアウトの生成に関する研究に取り組んでいます。</p>
 </div>
             </section>
 
@@ -146,6 +145,12 @@
         </div>
         <div class="section techreport">
             <h3>Other publications</h3>
+            <div class="sort year" extra="DESC number">
+                <table class="table table-hover table-borderless"><tbody class="templates"></tbody></table>
+            </div>
+        </div>
+        <div class="section misc">
+            <h3>その他（メディアなど）</h3>
             <div class="sort year" extra="DESC number">
                 <table class="table table-hover table-borderless"><tbody class="templates"></tbody></table>
             </div>
@@ -190,15 +195,18 @@
                 <span class="if doi">
                     <a class="bibtexVar" target="_blank" href="https://doi.org/+DOI+" extra="doi">[doi]</a>
                 </span>
-                <a class="bibtexVar" role="button" data-bs-toggle="collapse"
-                    href="#bib+BIBTEXKEY+" aria-expanded="false" aria-controls="bib+BIBTEXKEY+"
-                    extra="BIBTEXKEY" bibtexjs-css-escape>[bib]</a>
 
-                <div class="bibtexVar card collapse" id="bib+BIBTEXKEY+" extra="BIBTEXKEY">
-                    <div class="card-body p-2" onclick="getSelection().selectAllChildren(this);">
-                        <pre class="m-0"><span class="bibtexraw noread"></span></pre>
+                <span class="if BIBTEXTYPEKEY==INPROCEEDINGS || BIBTEXTYPEKEY==TECHREPORT">
+                    <a class="bibtexVar" role="button" data-bs-toggle="collapse"
+                        href="#bib+BIBTEXKEY+" aria-expanded="false" aria-controls="bib+BIBTEXKEY+"
+                        extra="BIBTEXKEY" bibtexjs-css-escape>[bib]</a>
+
+                    <div class="bibtexVar card collapse" id="bib+BIBTEXKEY+" extra="BIBTEXKEY">
+                        <div class="card-body p-2" onclick="getSelection().selectAllChildren(this);">
+                            <pre class="m-0"><span class="bibtexraw noread"></span></pre>
+                        </div>
                     </div>
-                </div>
+                </span>
             </td>
         </tr>
     </tbody>
@@ -212,8 +220,10 @@
         <footer class="footer mt-auto py-3">
     <div class="container text-center">
         <span>© Kotaro Kikuchi</span><br />
-        <span><a href="https://github.com/ktrk115/my-web-page/blob/master/themes/nobineko/">My Custom Theme</a> | Built with <a href="https://gohugo.io">Hugo</a></span><br />
-        <span>Last Update: 2021-02-04</span>
+        <span>Designed with <a href="https://gohugo.io">Hugo</a>
+            [<a href="https://github.com/ktrk115/my-web-page/blob/master/themes/nobineko/">My theme</a>]
+        </span><br />
+        <span>Last Update: 2021-04-29</span>
     </div>
 </footer>
 
@@ -242,7 +252,7 @@ if (!doNotTrack) {
             enPub = iframe.contents().find("#bibtex_display"),
             lenEnPub = enPub.find("tr").length,
             enMoved = $(".bibtextypekey").length > 1;
-        
+
         console.log(enMoved);
 
         if (enMoved) {
