@@ -86,6 +86,14 @@ main .container {
     margin: 0 auto;
 }
 
+/* Project */
+#project h4 {
+    margin-bottom: 14px;
+}
+#project .thumbnail {
+    max-width: 160px;
+}
+
 /* Publication */
 #publication table {
     table-layout: fixed;
@@ -98,12 +106,6 @@ main .container {
     font-size: 60%;
     position: relative;
     top: -.15rem;
-}
-#publication .bibtexentry .菊池.康太郎 {
-    font-weight: bolder;
-}
-#publication .bibtexentry .Kotaro.Kikuchi {
-    font-weight: bolder;
 }
 #publication .bibtexentry .title {
     font-weight: bolder;
