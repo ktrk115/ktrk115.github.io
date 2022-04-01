@@ -5,7 +5,16 @@
     <link>https://ktrk115.github.io/ja/projects/</link>
     <description>Recent content in Projects on 菊池 康太郎</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 09 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://ktrk115.github.io/ja/projects/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 12 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://ktrk115.github.io/ja/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Modeling Visual Containment for Web Page Layout Optimization</title>
+      <link>https://ktrk115.github.io/ja/projects/web_layout/</link>
+      <pubDate>Tue, 12 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://ktrk115.github.io/ja/projects/web_layout/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Constrained Graphic Layout Generation via Latent Optimization</title>
       <link>https://ktrk115.github.io/ja/projects/const_layout/</link>
