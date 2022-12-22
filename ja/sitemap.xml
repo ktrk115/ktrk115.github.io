@@ -2,21 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://ktrk115.github.io/ja/projects/web_layout/</loc>
-    <lastmod>2021-10-12T00:00:00+00:00</lastmod>
+    <loc>https://ktrk115.github.io/ja/projects/web_color/</loc>
+    <lastmod>2022-12-22T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://ktrk115.github.io/projects/web_layout/"
+                href="https://ktrk115.github.io/projects/web_color/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://ktrk115.github.io/ja/projects/web_layout/"
+                href="https://ktrk115.github.io/ja/projects/web_color/"
                 />
   </url><url>
     <loc>https://ktrk115.github.io/ja/projects/</loc>
-    <lastmod>2021-10-12T00:00:00+00:00</lastmod>
+    <lastmod>2022-12-22T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -29,7 +29,7 @@
                 />
   </url><url>
     <loc>https://ktrk115.github.io/ja/</loc>
-    <lastmod>2021-10-12T00:00:00+00:00</lastmod>
+    <lastmod>2022-12-22T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -39,6 +39,32 @@
                 rel="alternate"
                 hreflang="ja"
                 href="https://ktrk115.github.io/ja/"
+                />
+  </url><url>
+    <loc>https://ktrk115.github.io/ja/projects/thesis/</loc>
+    <lastmod>2022-02-25T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ktrk115.github.io/projects/thesis/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://ktrk115.github.io/ja/projects/thesis/"
+                />
+  </url><url>
+    <loc>https://ktrk115.github.io/ja/projects/web_layout/</loc>
+    <lastmod>2021-10-12T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ktrk115.github.io/projects/web_layout/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://ktrk115.github.io/ja/projects/web_layout/"
                 />
   </url><url>
     <loc>https://ktrk115.github.io/ja/projects/const_layout/</loc>
