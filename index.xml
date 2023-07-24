@@ -5,7 +5,26 @@
     <link>https://ktrk115.github.io/</link>
     <description>Recent content on Kotaro Kikuchi</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 22 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://ktrk115.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Sun, 18 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://ktrk115.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>LayoutDM: Discrete Diffusion Model for Controllable Layout Generation</title>
+      <link>https://ktrk115.github.io/projects/layout_dm/</link>
+      <pubDate>Sun, 18 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://ktrk115.github.io/projects/layout_dm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards Flexible Multi-modal Document Models</title>
+      <link>https://ktrk115.github.io/projects/flex_dm/</link>
+      <pubDate>Sun, 18 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://ktrk115.github.io/projects/flex_dm/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Generative Colorization of Structured Mobile Web Pages</title>
       <link>https://ktrk115.github.io/projects/web_color/</link>
