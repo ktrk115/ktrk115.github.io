@@ -6,7 +6,16 @@
     <description>Recent content in Projects on Kotaro Kikuchi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 18 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://ktrk115.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 20 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://ktrk115.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Retrieval-Augmented Layout Transformer for Content-Aware Layout Generation</title>
+      <link>https://ktrk115.github.io/projects/ralf/</link>
+      <pubDate>Sat, 20 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://ktrk115.github.io/projects/ralf/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>LayoutDM: Discrete Diffusion Model for Controllable Layout Generation</title>
       <link>https://ktrk115.github.io/projects/layout_dm/</link>

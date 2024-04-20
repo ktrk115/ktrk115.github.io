@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://ktrk115.github.io/</loc>
-    <lastmod>2023-06-18T00:00:00+00:00</lastmod>
+    <lastmod>2024-04-20T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
@@ -13,6 +13,32 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://ktrk115.github.io/"
+                />
+  </url><url>
+    <loc>https://ktrk115.github.io/projects/</loc>
+    <lastmod>2024-04-20T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://ktrk115.github.io/ja/projects/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ktrk115.github.io/projects/"
+                />
+  </url><url>
+    <loc>https://ktrk115.github.io/projects/ralf/</loc>
+    <lastmod>2024-04-20T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://ktrk115.github.io/ja/projects/ralf/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ktrk115.github.io/projects/ralf/"
                 />
   </url><url>
     <loc>https://ktrk115.github.io/projects/layout_dm/</loc>
@@ -26,19 +52,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://ktrk115.github.io/projects/layout_dm/"
-                />
-  </url><url>
-    <loc>https://ktrk115.github.io/projects/</loc>
-    <lastmod>2023-06-18T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://ktrk115.github.io/ja/projects/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://ktrk115.github.io/projects/"
                 />
   </url><url>
     <loc>https://ktrk115.github.io/projects/flex_dm/</loc>
