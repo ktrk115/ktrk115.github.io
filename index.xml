@@ -4,71 +4,72 @@
     <title>Kotaro Kikuchi</title>
     <link>https://ktrk115.github.io/</link>
     <description>Recent content on Kotaro Kikuchi</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 20 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://ktrk115.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 15 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://ktrk115.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Multimodal Markup Document Models for Graphic Design Completion</title>
+      <link>https://ktrk115.github.io/projects/markupdm/</link>
+      <pubDate>Tue, 15 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://ktrk115.github.io/projects/markupdm/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Fast Sprite Decomposition from Animated Graphics</title>
+      <link>https://ktrk115.github.io/projects/fast_sprite/</link>
+      <pubDate>Sun, 29 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://ktrk115.github.io/projects/fast_sprite/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Retrieval-Augmented Layout Transformer for Content-Aware Layout Generation</title>
       <link>https://ktrk115.github.io/projects/ralf/</link>
       <pubDate>Sat, 20 Apr 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://ktrk115.github.io/projects/ralf/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>LayoutDM: Discrete Diffusion Model for Controllable Layout Generation</title>
-      <link>https://ktrk115.github.io/projects/layout_dm/</link>
+      <link>https://ktrk115.github.io/projects/layoutdm/</link>
       <pubDate>Sun, 18 Jun 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://ktrk115.github.io/projects/layout_dm/</guid>
+      <guid>https://ktrk115.github.io/projects/layoutdm/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Towards Flexible Multi-modal Document Models</title>
-      <link>https://ktrk115.github.io/projects/flex_dm/</link>
+      <link>https://ktrk115.github.io/projects/flexdm/</link>
       <pubDate>Sun, 18 Jun 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://ktrk115.github.io/projects/flex_dm/</guid>
+      <guid>https://ktrk115.github.io/projects/flexdm/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Generative Colorization of Structured Mobile Web Pages</title>
       <link>https://ktrk115.github.io/projects/web_color/</link>
       <pubDate>Thu, 22 Dec 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://ktrk115.github.io/projects/web_color/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>[Ph.D. Thesis] Controllable Generation of Complex Graphic Layouts</title>
       <link>https://ktrk115.github.io/projects/thesis/</link>
       <pubDate>Fri, 25 Feb 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://ktrk115.github.io/projects/thesis/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Modeling Visual Containment for Web Page Layout Optimization</title>
       <link>https://ktrk115.github.io/projects/web_layout/</link>
       <pubDate>Tue, 12 Oct 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://ktrk115.github.io/projects/web_layout/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Constrained Graphic Layout Generation via Latent Optimization</title>
       <link>https://ktrk115.github.io/projects/const_layout/</link>
       <pubDate>Mon, 09 Aug 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://ktrk115.github.io/projects/const_layout/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

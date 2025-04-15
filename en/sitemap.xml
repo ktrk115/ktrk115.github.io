@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://ktrk115.github.io/</loc>
-    <lastmod>2024-04-20T00:00:00+00:00</lastmod>
+    <lastmod>2025-04-15T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
@@ -15,8 +15,21 @@
                 href="https://ktrk115.github.io/"
                 />
   </url><url>
+    <loc>https://ktrk115.github.io/projects/markupdm/</loc>
+    <lastmod>2025-04-15T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://ktrk115.github.io/ja/projects/markupdm/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ktrk115.github.io/projects/markupdm/"
+                />
+  </url><url>
     <loc>https://ktrk115.github.io/projects/</loc>
-    <lastmod>2024-04-20T00:00:00+00:00</lastmod>
+    <lastmod>2025-04-15T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
@@ -26,6 +39,19 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://ktrk115.github.io/projects/"
+                />
+  </url><url>
+    <loc>https://ktrk115.github.io/projects/fast_sprite/</loc>
+    <lastmod>2024-09-29T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://ktrk115.github.io/ja/projects/fast_sprite/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ktrk115.github.io/projects/fast_sprite/"
                 />
   </url><url>
     <loc>https://ktrk115.github.io/projects/ralf/</loc>
@@ -41,30 +67,30 @@
                 href="https://ktrk115.github.io/projects/ralf/"
                 />
   </url><url>
-    <loc>https://ktrk115.github.io/projects/layout_dm/</loc>
+    <loc>https://ktrk115.github.io/projects/layoutdm/</loc>
     <lastmod>2023-06-18T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://ktrk115.github.io/ja/projects/layout_dm/"
+                href="https://ktrk115.github.io/ja/projects/layoutdm/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://ktrk115.github.io/projects/layout_dm/"
+                href="https://ktrk115.github.io/projects/layoutdm/"
                 />
   </url><url>
-    <loc>https://ktrk115.github.io/projects/flex_dm/</loc>
+    <loc>https://ktrk115.github.io/projects/flexdm/</loc>
     <lastmod>2023-06-18T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://ktrk115.github.io/ja/projects/flex_dm/"
+                href="https://ktrk115.github.io/ja/projects/flexdm/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://ktrk115.github.io/projects/flex_dm/"
+                href="https://ktrk115.github.io/projects/flexdm/"
                 />
   </url><url>
     <loc>https://ktrk115.github.io/projects/web_color/</loc>
